@@ -10,7 +10,7 @@ import (
 var (
 		dbhostsip  = "127.0.0.1:3306"
 		dbusername = "root"
-		dbpassword = "123456"
+		dbpassword = ""
 		dbname     = "Student"
 )
 
