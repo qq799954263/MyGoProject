@@ -7,12 +7,12 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 )
 
-var (
-		dbhostsip  = "127.0.0.1:3306"
-		dbusername = "root"
-		dbpassword = ""
-		dbname     = "Student"
-)
+/*
+		dip  = "127.0.0.1:3306"
+		username = "root"
+		password = ""
+		name     = "Student"
+*/
 
 func main(){
 
